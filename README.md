@@ -1,9 +1,13 @@
 ### Hi there 👋
 
+My name is wxmylife, an Android software engineer at Panda Education.
+
+- 🔭 I’m currently working on a education company.
+- 🤔 I'm currently learning Java Web, Kotlin.
 <!--
 **wxmylife/wxmylife** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
