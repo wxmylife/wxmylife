@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-banner.gif" alt="wxmylife · Android 开发 · 海外广告 SDK 与应用开发" width="1000" />
+  <img src="https://raw.githubusercontent.com/wxmylife/wxmylife/fbdf2121f4a7c1f475aebf1547c4233bde866924/assets/profile-banner.gif" alt="wxmylife · Android 开发 · 海外广告 SDK 与应用开发" width="1000" />
 </p>
 
 ## 你好，我是 wxmylife
