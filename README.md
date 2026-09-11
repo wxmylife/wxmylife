@@ -1,21 +1,9 @@
 <p align="center">
-  <img src="./assets/profile-banner.gif" alt="wxmylife · Android 开发 · 专注海外广告，关注广告变现、稳定交付与体验打磨" width="1000" />
+  <img src="./assets/profile-banner.gif" alt="wxmylife · Android 开发 · 海外广告 SDK 与应用开发" width="1000" />
 </p>
 
-# 你好，我是 wxmylife
+## 你好，我是 wxmylife
 
-**海外广告方向 Android 开发者。** 关注广告变现与产品体验，也关心每一次请求背后的稳定性与效率。
+Android 开发，主要做海外广告相关的 SDK 和应用。
 
-### 关注方向
-
-- **海外广告**：广告接入、变现链路，以及广告展示与用户体验之间的平衡。
-- **Android 工程**：用 Kotlin / Java 构建易维护的客户端，关注架构、性能与稳定性。
-- **交互细节**：让状态反馈清晰、转场自然，让动效服务于操作与理解。
-
-### 开发理念
-
-先把业务边界想清楚，再把实现做简单。重视可读性、问题定位与持续交付，用细节打磨体验。
-
----
-
-欢迎交流 Android 开发、海外广告与客户端工程实践。
+常用 Kotlin、Java。欢迎交流 Android、广告 SDK 和应用开发。
