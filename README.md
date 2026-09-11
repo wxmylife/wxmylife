@@ -1,20 +1,23 @@
-### Hi there 👋
+<p align="center">
+  <img src="./assets/profile-banner.gif" alt="wxmylife · Android 开发 · 专注海外广告，关注广告变现、稳定交付与体验打磨" width="1000" />
+</p>
 
-My name is wxmylife, an Android software engineer at Panda Education.
+# 你好，我是 wxmylife
 
-- 🔭 I’m currently working on a education company.
-- 🤔 I'm currently learning Java Web, Kotlin.
-<!--
-**wxmylife/wxmylife** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**海外广告方向 Android 开发者。** 关注广告变现与产品体验，也关心每一次请求背后的稳定性与效率。
 
+### 关注方向
 
+- **海外广告**：广告接入、变现链路，以及广告展示与用户体验之间的平衡。
+- **Android 工程**：用 Kotlin / Java 构建易维护的客户端，关注架构、性能与稳定性。
+- **交互细节**：让状态反馈清晰、转场自然，让动效服务于操作与理解。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 开发理念
+
+先把业务边界想清楚，再把实现做简单。重视可读性、问题定位与持续交付，用细节打磨体验。
+
+---
+
+欢迎交流 Android 开发、海外广告与客户端工程实践。
+
+<sub>横幅为仓库内置循环动效；[查看静态版本](./assets/profile-banner.png) · [设计说明](./assets/README.md)</sub>
