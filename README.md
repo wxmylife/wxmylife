@@ -19,5 +19,3 @@
 ---
 
 欢迎交流 Android 开发、海外广告与客户端工程实践。
-
-<sub>横幅为仓库内置循环动效；[查看静态版本](./assets/profile-banner.png) · [设计说明](./assets/README.md)</sub>
